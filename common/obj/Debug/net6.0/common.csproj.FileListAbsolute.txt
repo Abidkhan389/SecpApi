@@ -1,0 +1,15 @@
+D:\SECP\SECPAPI\elmsbackend\common\bin\Debug\net6.0\Paradigm.Common.deps.json
+D:\SECP\SECPAPI\elmsbackend\common\bin\Debug\net6.0\Paradigm.Common.dll
+D:\SECP\SECPAPI\elmsbackend\common\bin\Debug\net6.0\Paradigm.Common.pdb
+D:\SECP\SECPAPI\elmsbackend\common\bin\Debug\net6.0\Paradigm.Contract.dll
+D:\SECP\SECPAPI\elmsbackend\common\bin\Debug\net6.0\Paradigm.Contract.pdb
+D:\SECP\SECPAPI\elmsbackend\common\obj\Debug\net6.0\common.csproj.AssemblyReference.cache
+D:\SECP\SECPAPI\elmsbackend\common\obj\Debug\net6.0\common.GeneratedMSBuildEditorConfig.editorconfig
+D:\SECP\SECPAPI\elmsbackend\common\obj\Debug\net6.0\common.AssemblyInfoInputs.cache
+D:\SECP\SECPAPI\elmsbackend\common\obj\Debug\net6.0\common.AssemblyInfo.cs
+D:\SECP\SECPAPI\elmsbackend\common\obj\Debug\net6.0\common.csproj.CoreCompileInputs.cache
+D:\SECP\SECPAPI\elmsbackend\common\obj\Debug\net6.0\common.csproj.CopyComplete
+D:\SECP\SECPAPI\elmsbackend\common\obj\Debug\net6.0\Paradigm.Common.dll
+D:\SECP\SECPAPI\elmsbackend\common\obj\Debug\net6.0\refint\Paradigm.Common.dll
+D:\SECP\SECPAPI\elmsbackend\common\obj\Debug\net6.0\Paradigm.Common.pdb
+D:\SECP\SECPAPI\elmsbackend\common\obj\Debug\net6.0\ref\Paradigm.Common.dll

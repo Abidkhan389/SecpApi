@@ -1,0 +1,85 @@
+{
+    "data": {
+        "connectionString": "Host=115.0.9.161;Port=5432;Username=postgres;Password=Kel@1234;Database=elms;",
+        "redisConnectionString": "127.0.0.1:6379",
+        "schemaName": ""
+    },
+    "kestrel": {
+        "endpoints": {
+            "localhost": {
+                "address": "localhost",
+                "port": 5000
+            }
+        }
+    },
+    "server": {
+        "areas": [
+            "admin"
+        ],
+        "antiForgery": {
+            "cookieName": "XSRF-COOKIE",
+            "headerName": "X-XSRF-TOKEN",
+            "clientName": "XSRF-TOKEN",
+            "requireSsl": false
+        },
+        "defaultCulture": "en",
+        "defaultTimeZone": "Pakistan Standard Time",
+        "webroot": "./wwwroot",
+        "origins": [
+            "http://localhost:8002"
+        ]
+    },
+    "service": {
+        "authenticationProviders": [
+            {
+                "clientId": "1012191853724-f9u0dcapj679ggokk5mblma4fbd77jmv.apps.googleusercontent.com",
+                "profileUri": "https://www.googleapis.com/oauth2/v3/tokeninfo?access_token={0}",
+                "providerId": "GOOGLE",
+                "revokeUri": "https://accounts.google.com/o/oauth2/revoke?token={0}"
+            },
+            {
+                "clientId": "56d7559c-2488-4ee2-9f4d-5bb2aa8b3b58",
+                "profileUri": "",
+                "providerId": "MICROSOFT",
+                "revokeUri": ""
+            }
+        ],
+        "claimsNamespace": "http://Paradigm/claims/",
+        "tokenProvider": {
+            "tokenExpiration": "480",
+            "tokenSecurityKey": "startrekkingacrosstheuniverseonthestarshipenterpriseundercaptainkirk",
+            "tokenSecurityAlgorithm": "HS256",
+            "tokenIssuer": "localhost",
+            "tokenAudience": "Paradigmapp"
+        }
+    },
+    "Logging": {
+        "IncludeScopes": true,
+        "Debug": {
+            "LogLevel": {
+                "Default": "Information",
+                "Microsoft": "Warning",
+                "Microsoft.Hosting.Lifetime": "Information"
+            }
+        },
+        "Console": {
+            "LogLevel": {
+                "Default": "Information",
+                "Microsoft": "Warning",
+                "Microsoft.Hosting.Lifetime": "Information"
+            }
+        },
+        "LogLevel": {
+            "Default": "Information",
+            "Microsoft": "Warning",
+            "Microsoft.Hosting.Lifetime": "Information"
+        }
+    },
+    "MailSettings": {
+        "mail": "fatishiekh57@gmail.com",
+        "displayname": "Khazana pk",
+        "password": "bydgwhrpezolvezw",
+        "host": "smtp.gmail.com",
+        "port": 587
+      }
+}

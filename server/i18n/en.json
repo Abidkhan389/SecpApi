@@ -1,0 +1,14 @@
+{
+  "dict": {
+    "copy": "Copy",
+    "clock": "Clock",
+    "culture": "Culture",
+    "create": "Create",
+    "delete": "Delete",
+    "deny": "Deny",
+    "email": "Email",
+    "readonly": "Read-Only",
+    "reports": "Reports",
+    "notImplemented": "Not Implemented"
+  }
+}
